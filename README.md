@@ -1,4 +1,3 @@
-[![MasterHead](https://logicmojo.com/assets/dist/new_pages/images/js-gif.gif)](https://www.linkedin.com/in/moustafa-abderrahman/)
 
 <h1 align="center">Hi 👋, I'm Mohamed Moustafa</h1>
 <h3 align="center">Senior Java Developer</h3>
